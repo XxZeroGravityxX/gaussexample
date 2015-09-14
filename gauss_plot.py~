@@ -56,7 +56,7 @@ ax.set_ylim(-0.1, 1.1)
 ax.text(0, 0.4, '68%', fontsize=12, color='w', va='center', ha='center')
 
 fig.subplots_adjust(bottom=0.30)
-plt.text(-3.9,1,'Ignacio Sanchez')
+plt.text(-3.9,1,'Ignacio Sánchez')
 plt.text(-3.9,0.9,'nachoandres_sanchezb@hotmail.com')
 
 
